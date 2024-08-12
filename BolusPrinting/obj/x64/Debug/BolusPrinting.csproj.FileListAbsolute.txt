@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Eclipse Scripting API\Projects\BolusPrinting\bin\debug\BolusPrinting.dll
+C:\Users\Admin\Documents\Eclipse Scripting API\Projects\BolusPrinting\bin\debug\BolusPrinting.pdb
+C:\Users\Admin\Documents\Eclipse Scripting API\Projects\BolusPrinting\obj\x64\Debug\BolusPrinting.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Eclipse Scripting API\Projects\BolusPrinting\obj\x64\Debug\BolusPrinting.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Eclipse Scripting API\Projects\BolusPrinting\obj\x64\Debug\BolusPrinting.dll
+C:\Users\Admin\Documents\Eclipse Scripting API\Projects\BolusPrinting\obj\x64\Debug\BolusPrinting.pdb
